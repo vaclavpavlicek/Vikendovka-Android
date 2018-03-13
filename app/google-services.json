@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032083815822",
+    "firebase_url": "https://vikendovka-ba471.firebaseio.com",
+    "project_id": "vikendovka-ba471",
+    "storage_bucket": "vikendovka-ba471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032083815822:android:747214348e8f6ee1",
+        "android_client_info": {
+          "package_name": "cz.vendasky.vikendovka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032083815822-imuglhh0hi3pdgv3p5siaunj09a82v98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.vendasky.vikendovka",
+            "certificate_hash": "ffed5bd235af63567a20905cd8ac731629709d1f"
+          }
+        },
+        {
+          "client_id": "1032083815822-61o14cf9i1sj7im11lnn23oahdm1gd7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYMWt-6WUvGLqtmd7aZn0FxP4Xdt4lNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032083815822-61o14cf9i1sj7im11lnn23oahdm1gd7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
